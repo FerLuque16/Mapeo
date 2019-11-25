@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1574696967 source:c:\users\fer\desktop\clase 23\mapeo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574650116 c:\users\fer\desktop\clase 23\mapeo\linkedlist.h
+
+1574696967 source:c:\users\fer\desktop\clase 23\mapeo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Persona.h"
+
+1574655930 c:\users\fer\desktop\clase 23\mapeo\persona.h
+
+1574696936 source:c:\users\fer\desktop\clase 23\mapeo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Persona.h"
+	"parser.h"
+
+1574655930 source:c:\users\fer\desktop\clase 23\mapeo\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Persona.h"
+
+1574656331 c:\users\fer\desktop\clase 23\mapeo\parser.h
+
